@@ -1,0 +1,24 @@
+{
+  "name": "bamazon-store",
+  "version": "1.0.0",
+  "description": "The app can take in orders from customers and deplete stock from the store's inventory. In addition, the app tracks product sales across the store's departments and then provides a summary of the highest-grossing departments in the store.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-zavala/bamazon-store.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/j-zavala/bamazon-store/issues"
+  },
+  "homepage": "https://github.com/j-zavala/bamazon-store#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0"
+  }
+}
